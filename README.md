@@ -5,6 +5,7 @@
 ### What is this?
 
 At my office job I often have several checks to process and total up, and a regular calculator always leaves me a little concerned I didn't count every check or maybe I entered one of them incorrectly. A regular calculator just gives the total, and no more information. So I built this program as a sort of extension to a regular calculator. 
+![Check Program](/img/checks.jpg)
 
 ### What it does
 
