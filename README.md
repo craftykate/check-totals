@@ -79,7 +79,7 @@ As the program tells you, you can do the following three things:
 
 	- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
 
-	```shell
+	```
 	----------------------
 	1. 102.40
 	2. 94.73
