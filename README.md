@@ -56,36 +56,36 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 **Options**
 
 As the program tells you, you can do the following three things:
-	* **Enter check amount** 
-		- What we've been doing all along. Enter a number and press enter.
-	* **q to quit**
-		- Are you done? Type `q` and hit enter and the program will stop.
-	* **-# to delete a check**
-		- Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
-			- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
+* **Enter check amount** 
+	- What we've been doing all along. Enter a number and press enter.
+* **q to quit**
+	- Are you done? Type `q` and hit enter and the program will stop.
+* **-# to delete a check**
+	- Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
+		- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
 
-				```
-				----------------------
-				1. 102.40
-				2. 94.73
-				3. 56.64
-				Total: $253.77.
-				----------------------
-				Enter check amount, q to quit, or -# to delete a check
-				```
+			```
+			----------------------
+			1. 102.40
+			2. 94.73
+			3. 56.64
+			Total: $253.77.
+			----------------------
+			Enter check amount, q to quit, or -# to delete a check
+			```
 
-			- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
-			
-				```
-				----------------------
-				1. 102.40
-				2. 94.73
-				3. 56.64
-				4. 37.50
-				Total: $291.27.
-				----------------------
-				Enter check amount, q to quit, or -# to delete a check
-				```
+		- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
+
+			```
+			----------------------
+			1. 102.40
+			2. 94.73
+			3. 56.64
+			4. 37.50
+			Total: $291.27.
+			----------------------
+			Enter check amount, q to quit, or -# to delete a check
+			```
 
 ## Developer Info
 
