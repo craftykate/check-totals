@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Who would use it**
+**What is this?**
 
 At my office job I often have several checks to process and total up, and a regular calculator always leaves me a little concerned I didn't count every check or maybe I entered one of them incorrectly. A regular calculator just gives the total, and no more information. So I built this program as a sort of extension to a regular calculator. 
 
@@ -15,6 +15,7 @@ Did you enter all 12 checks or just 11? Was the third check you entered correct?
 Made a mistake? Type `-2` to erase the second check and a new summary will automatically show up.
 
 **Contents**
+
 * `.gitignore` - You can ignore the `.gitignore`
 * `README.md` - What you're reading now
 * `checks.rb` - The actual program for you to download
@@ -22,9 +23,11 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 ## How to Use
 
 **Getting Started**
+
 * Download `checks.rb` to the folder of your choice
 
 **Usage**
+
 * Open the terminal window, navigate to the folder `checks.rb` is in
 * Type `ruby checks.rb`
 * The program will ask for the first amount in the terminal window. Type `102.4` or whatever your check amount is
@@ -57,9 +60,9 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 
 As the program tells you, you can do the following three things:
 * **Enter check amount** 
-	- What we've been doing all along. Enter a number and press enter.
+	What we've been doing all along. Enter a number and press enter.
 * **q to quit**
-	- Are you done? Type `q` and hit enter and the program will stop.
+	Are you done? Type `q` and hit enter and the program will stop.
 * **-# to delete a check**
 	- Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
 		- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
