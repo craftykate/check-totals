@@ -33,26 +33,26 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 - The program will ask for the first amount in the terminal window. Type `102.4` or whatever your check amount is
 - The program will give you the following output:
 
-```
-----------------------
-1. 102.40
-Total: $102.40.
-----------------------
-Enter check amount, q to quit, or -# to delete a check
-```
+	```
+	----------------------
+	1. 102.40
+	Total: $102.40.
+	----------------------
+	Enter check amount, q to quit, or -# to delete a check
+	```
 
 - Keep adding amounts and pressing enter and you'll eventually end up with something like this:
 
-```
-----------------------
-1. 102.40
-2. 37.00
-3. 94.73
-4. 56.64
-Total: $290.77.
-----------------------
-Enter check amount, q to quit, or -# to delete a check
-```
+	```
+	----------------------
+	1. 102.40
+	2. 37.00
+	3. 94.73
+	4. 56.64
+	Total: $290.77.
+	----------------------
+	Enter check amount, q to quit, or -# to delete a check
+	```
 
 As you can see, each time you enter a check every check is shown as well as the total. You can feel confident that you have entered all four checks, they are all correct, and the total is accurate.
 
