@@ -61,32 +61,34 @@ As you can see, each time you enter a check every check is shown as well as the 
 As the program tells you, you can do the following three things:
 
 1. **Enter check amount** <br/> What we've been doing all along. Enter a number and press enter.
+
 2. **q to quit** <br/> Are you done? Type `q` and hit enter and the program will stop.
+
 3. **-# to delete a check** <br/> Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
 	- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
 
-		```
-		----------------------
-		1. 102.40
-		2. 94.73
-		3. 56.64
-		Total: $253.77.
-		----------------------
-		Enter check amount, q to quit, or -# to delete a check
-		```
+	```
+	----------------------
+	1. 102.40
+	2. 94.73
+	3. 56.64
+	Total: $253.77.
+	----------------------
+	Enter check amount, q to quit, or -# to delete a check
+	```
 
 	- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
 
-		```
-		----------------------
-		1. 102.40
-		2. 94.73
-		3. 56.64
-		4. 37.50
-		Total: $291.27.
-		----------------------
-		Enter check amount, q to quit, or -# to delete a check
-		```
+	```
+	----------------------
+	1. 102.40
+	2. 94.73
+	3. 56.64
+	4. 37.50
+	Total: $291.27.
+	----------------------
+	Enter check amount, q to quit, or -# to delete a check
+	```
 
 ## Developer Info
 
