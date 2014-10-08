@@ -74,7 +74,13 @@
 			----------------------
 			Enter check amount, q to quit, or -# to delete a check
 			```
+## Developer Info
 
+* This program was written by me, Kate McFaul, <a href="http://katemcfaul.com">KateMcFaul.com</a>. While learning Ruby I wrote many (many) small programs to practice. This program I actually use almost every day at work and find it very useful. 
+* Design Goals
+	- It doesn't do much, so the goals are very simple. 
+	- **Easy** - I wanted to use as few keystrokes as possible. It only adds, it doesn't subtract (unless we're deleting a check) or multiply or divide, so needing to press the `+` key was redundant. Just type an amount and press enter.
+	- **Quick** - I didn't want to total up all my checks in order to see the results. I wanted the whole summary every time I hit enter. That way I can stay on track with all the info after every single check. 
 
 
 
