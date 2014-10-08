@@ -29,6 +29,7 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 * Type `ruby checks.rb`
 * The program will ask for the first amount in the terminal window. Type `102.4` or whatever your check amount is
 * The program will give you the following output:
+
 	```
 	----------------------
 	1. 102.40
@@ -36,7 +37,9 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 	----------------------
 	Enter check amount, q to quit, or -# to delete a check
 	```
+
 * Keep adding amounts and pressing enter and you'll eventually end up with something like this:
+
 	```
 	----------------------
 	1. 102.40
@@ -47,6 +50,7 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 	----------------------
 	Enter check amount, q to quit, or -# to delete a check
 	```
+
 * As you can see, each time you enter a check every check is shown as well as the total. You can feel confident that you have entered all four checks, they are all correct, and the total is accurate.
 
 **Options**
@@ -59,6 +63,7 @@ As the program tells you, you can do the following three things:
 	* **-# to delete a check**
 		- Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
 			- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
+
 				```
 				----------------------
 				1. 102.40
@@ -68,7 +73,9 @@ As the program tells you, you can do the following three things:
 				----------------------
 				Enter check amount, q to quit, or -# to delete a check
 				```
+
 			- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
+			
 				```
 				----------------------
 				1. 102.40
