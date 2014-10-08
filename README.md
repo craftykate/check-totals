@@ -61,13 +61,16 @@ As you can see, each time you enter a check every check is shown as well as the 
 As the program tells you, you can do the following three things:
 
 1. **Enter check amount** 
-	- What we've been doing all along. Enter a number and press enter.
+	
+	What we've been doing all along. Enter a number and press enter.
 
 2. **q to quit**
-	- Are you done? Type `q` and hit enter and the program will stop.
+	
+	Are you done? Type `q` and hit enter and the program will stop.
 
 3. **-# to delete a check**
-	- Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
+	
+	Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
 		- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
 
 		```
