@@ -60,9 +60,7 @@ As you can see, each time you enter a check every check is shown as well as the 
 
 As the program tells you, you can do the following three things:
 
-1. **Enter check amount** 
-	
-	What we've been doing all along. Enter a number and press enter.
+1. **Enter check amount** <br/> What we've been doing all along. Enter a number and press enter.
 
 2. **q to quit**
 	
