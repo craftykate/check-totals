@@ -5,6 +5,7 @@
 ### What is this?
 
 At my office job I often have several checks to process and total up, and a regular calculator always leaves me a little concerned I didn't count every check or maybe I entered one of them incorrectly. A regular calculator just gives the total, and no more information. So I built this program as a sort of extension to a regular calculator. 
+
 ![Check Program](/img/checks.jpg)
 
 ### What it does
@@ -93,7 +94,7 @@ As the program tells you, you can do the following three things:
 
 ## Developer Info
 
-This program was written by me, Kate McFaul. Visit me at <a href="http://katemcfaul.com">KateMcFaul.com</a>. While learning Ruby I wrote many (many) small programs to practice. This program I actually use almost every day at work and find it very useful. This is also my very first git repository! Yay me. 
+This program was written by me, Kate McFaul. Visit me at [KateMcFaul.com](http://katemcfaul.com). While learning Ruby I wrote many (many) small programs to practice. This program I actually use almost every day at work and find it very useful. This is also my very first git repository! Yay me. 
 
 ### Design Goals
 
