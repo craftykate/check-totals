@@ -23,8 +23,8 @@
 * **Usage**
 	- Open the terminal window, navigate to the folder `checks.rb` is in
 	- Type `ruby checks.rb`
-	- Program will ask for the first amount. Type `102.4` or whatever your check amount is
-	- Program will give you the following output:
+	- The program will ask for the first amount in the terminal window. Type `102.4` or whatever your check amount is
+	- The program will give you the following output:
 	```
 	----------------------
 	1. 102.40
@@ -74,11 +74,11 @@
 			----------------------
 			Enter check amount, q to quit, or -# to delete a check
 			```
-			
+
 ## Developer Info
 
-* This program was written by me, Kate McFaul, <a href="http://katemcfaul.com">KateMcFaul.com</a>. While learning Ruby I wrote many (many) small programs to practice. This program I actually use almost every day at work and find it very useful. 
-* Design Goals
+* This program was written by me, Kate McFaul. Visit me at <a href="http://katemcfaul.com">KateMcFaul.com</a>. While learning Ruby I wrote many (many) small programs to practice. This program I actually use almost every day at work and find it very useful. 
+* **Design Goals**
 	- It doesn't do much, so the goals are very simple. 
 	- **Easy** - I wanted to use as few keystrokes as possible. It only adds, it doesn't subtract (unless we're deleting a check) or multiply or divide, so needing to press the `+` key was redundant. Just type an amount and press enter.
 	- **Quick** - I didn't want to total up all my checks in order to see the results. I wanted the whole summary every time I hit enter. That way I can stay on track with all the info after every single check. 
