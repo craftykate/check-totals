@@ -71,8 +71,8 @@ As the program tells you, you can do the following three things:
 3. **-# to delete a check**
 	
 	Oops! Maybe our 2nd check from the above example was incorrect and should have been "37.5". Easy enough to fix. Here's how:
-	
-		- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
+
+	- Simply type `-2` to delete the second check and hit enter. The program will automatically give you the new total, minus the offending check:
 
 		```
 		----------------------
@@ -84,7 +84,7 @@ As the program tells you, you can do the following three things:
 		Enter check amount, q to quit, or -# to delete a check
 		```
 
-		- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
+	- Now enter the correct amount of `37.5` and hit enter and the problem is solved:
 
 		```
 		----------------------
