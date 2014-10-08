@@ -74,6 +74,7 @@
 			----------------------
 			Enter check amount, q to quit, or -# to delete a check
 			```
+			
 ## Developer Info
 
 * This program was written by me, Kate McFaul, <a href="http://katemcfaul.com">KateMcFaul.com</a>. While learning Ruby I wrote many (many) small programs to practice. This program I actually use almost every day at work and find it very useful. 
