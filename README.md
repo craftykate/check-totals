@@ -18,6 +18,7 @@ Made a mistake? Type `-2` to erase the second check and a new summary will autom
 
 ### Contents
 
+- `img` - Folder where I stored the image of the program in the README. 
 - `.gitignore` - You can ignore the `.gitignore`
 - `README.md` - What you're reading now
 - `checks.rb` - The actual program for you to download
